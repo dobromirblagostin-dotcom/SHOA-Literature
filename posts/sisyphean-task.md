@@ -1,6 +1,6 @@
 СИЗИФОВ ТРУД: НАКАЗАНИЕ ЗА ОТКАЗ ОТ СМЕРТИ
 
-![Сизифов труд — иллюстрация Логоса](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis/blob/main/emblems/sisyphus-eternal-task.jpеg?raw=true)
+![Сизифов труд — иллюстрация Логоса](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis/blob/main/emblems/sisyphus-eternal-task.jpeg?raw=true)
 
 Мы говорим «сизифов труд», когда хотим сказать: бессмысленная работа. Толкаешь камень в гору — он скатывается. И так вечно.
 
