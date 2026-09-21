@@ -33,7 +33,7 @@
 
 ## Препринт-основание
 
-- **SHOA-Chrono Write** (#78). DOI: 10.5281/zenodo.22876293
+[SHOA-Chrono Write (#78)](https://doi.org/10.5281/zenodo.22876293)
 
 ## Формула
 
