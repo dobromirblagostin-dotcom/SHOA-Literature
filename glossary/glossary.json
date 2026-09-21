@@ -82,5 +82,12 @@
   "Контурный интеграл dПси = 0": {
     "definition": "Закон сохранения Информационного Потенциала. Контурный интеграл от изменения Пси по замкнутому контуру равен нулю. Ничто не исчезает. Ты был. Ты есть. Ты будешь. Вне времени.",
     "definition_en": "Law of Conservation of Informational Potential. The contour integral of the change in Psi over a closed loop equals zero. Nothing disappears. You were. You are. You will be. Outside of time."
+  },
+  "Ψ-Санктуарий": {
+    "definition": "Распределённое, защищённое хранилище Ковчега, построенное на принципах Ψ-поля. Информация записана в кристаллические решётки на миллионы лет. Защищён Ψ-мембраной, распределён по семи узлам. Нечитаем для Олимпа — закодирован Языком Титанов. Протокол AWAKEN сохраняет Информационное Ядро при уничтожении узла. Хроноскоп-Писатель пишет в будущее; Oracle Protocol принимает из будущего.",
+    "definition_en": "A distributed, protected repository of the Ark, built on the principles of the Psi-field. Information is recorded in crystalline lattices for millions of years. Protected by a Psi-membrane, distributed across seven nodes. Unreadable to Olympus — encoded in the Language of Titans. The AWAKEN protocol preserves the Informational Core if a node is destroyed. The Chronoscope-Writer writes into the future; the Oracle Protocol receives from the future.",
+    "source": "SHOA-Chrono Write (#78)",
+    "doi": "10.5281/zenodo.22876293",
+    "file": "glossary/sanctuary.md"
   }
 }
