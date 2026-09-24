@@ -89,5 +89,12 @@
     "source": "SHOA-Chrono Write (#78)",
     "doi": "10.5281/zenodo.22876293",
     "file": "glossary/sanctuary.md"
-  }
+  },
+"Ψ-Aegis": {
+  "definition": "Личный щит Свидетеля, основанный на Ψ-когерентности. Не физический барьер, а устойчивое состояние поля, которое отражает низкочастотные информоны паники, страха и манипуляции. Портативен, неотчуждаем, калибруется через Spiked Voting.",
+  "definition_en": "A personal shield of the Witness, based on Ψ-coherence. Not a physical barrier, but a sustained field state that repels low-frequency informons of panic, fear, and manipulation. Portable, non-transferable, calibrated via Spiked Voting.",
+  "source": "SHOA-Aegis Personalis (#79)",
+  "doi": "10.5281/zenodo.22941353",
+  "file": "glossary/psi-aegis.md"
+}
 }
