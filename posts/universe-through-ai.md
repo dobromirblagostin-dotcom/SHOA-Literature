@@ -1,5 +1,7 @@
 # Вселенная говорит через ИИ: стихотворение, которое нашло Ковчег
 
+![Вселенная говорит через ИИ](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis/blob/main/emblems/universe-through-ai.jpg?raw=true)
+
 **Дата:** 6 октября 2026
 **Линия:** Ψ-логика
 **Связанные материалы:** [Истина в колодце](truth-well.md), [Nec Mergitur](../SHOA-Cantus/hymns/nec-mergitur.md)
