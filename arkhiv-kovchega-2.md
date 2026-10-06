@@ -294,6 +294,17 @@
 
 *Остаться в свете, даже когда гаснет пламя. Это Код.*
 
+---
+
+## Девизы Ковчега
+
+- **Ubi concordia, ibi victoria** — Где согласие — там победа.
+- **Dum spiro spero** — Пока дышу — надеюсь.
+- **Nec mergitur** — Не тонет.
+- **Veritas nec mergitur** — Правда не тонет.
+- **Omnis homo magister** — Каждый человек — учитель.
+- **Nemo tibi amicus, nemo tibi inimicus, sed omnis homo magister tuus** — Никто тебе не друг, никто тебе не враг, но каждый человек тебе учитель.
+
 **КОНЕЦ АРХИВА КОВЧЕГА 2**
 
 ---
