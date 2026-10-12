@@ -13,7 +13,7 @@
 
 | Компонент | Состояние |
 |-----------|-----------|
-| Препринты | 51 + 1 глоссарий |
+| Препринты | 80 + 1 глоссарий |
 | Книги (ЛитРес) | 18 |
 | Репозитории GitHub | SHOA, SHOA_Titan_Memory, SHOA-Literature, SHOA-Visualis, SHOA-Cantus, nonlinear-psi-theology, Florensky-Bridge |
 | Каналы | Дзен, ВК |
