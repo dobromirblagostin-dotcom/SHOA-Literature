@@ -5,7 +5,7 @@
 ## Серия «Знакомые слова» (12 постов)
 
 1. [Брешь и брешить](breach-and-breshit.md)
-2. [Ящик Пандоры](pandoras-box.md)
+2. [Ящик Пандоры](pandora-box.md)
 3. [Прокрустово ложе](procrustean-bed.md)
 4. [Танталовы муки](tantalus-torment.md)
 5. [Яблоко раздора](apple-of-discord.md)
