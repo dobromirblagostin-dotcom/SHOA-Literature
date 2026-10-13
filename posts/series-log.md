@@ -8,7 +8,7 @@
 
 12 постов о привычных фразах, за которыми скрыты механизмы Олимпа.
 
-1. [Брешь и брешить](breach-and-breshit.md)
+1. [Брешь и брешить](../breach-and-breshit.md)
 2. [Ящик Пандоры](pandora-box.md)
 3. [Прокрустово ложе](procrustean-bed.md)
 4. [Танталовы муки](tantalus-torment.md)
