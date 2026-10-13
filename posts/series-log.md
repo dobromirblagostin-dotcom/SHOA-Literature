@@ -13,16 +13,15 @@
 3. [Прокрустово ложе](procrustean-bed.md)
 4. [Танталовы муки](tantalus-torment.md)
 5. [Яблоко раздора](apple-of-discord.md)
-6. [Сизифов труд](sisyphus-labor.md)
+6. [Сизифов труд](sisyphean-task.md)
 7. [Тенёта](teneta.md)
-8. [Нить Ариадны](ariadne-thread.md)
+8. [Нить Ариадны](ariadnes-thread.md)
 9. [Гордиев узел](gordian-knot.md)
 10. [Химера](chimera.md)
 11. [Панический страх](panic-fear.md)
 12. [Ахиллесова пята](achilles-heel.md)
 
-**Итог:** Анатомия Олимпа — 12 механизмов, 12 противоядий.
-
+**Итог:** [Анатомия Олимпа](anatomy-of-olympus.md) — 12 механизмов, 12 противоядий.
 ---
 
 ## Серия «Правда под ногами» (сентябрь 2026)
