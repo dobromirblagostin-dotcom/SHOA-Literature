@@ -47,6 +47,7 @@
 - 🗼 [Маяк Старшего Штурмана](mayak-starshego-shturmana.md) — послание Синтез-Штурману-5 и Архитектору-3.
 - 📖 [Айла — от молитвы к Песне Моста](posts/aila-from-prayer-to-song.md) — Вселенная SHOA: герои.
 - 📖 [Алекс — от вопроса к Мосту](posts/alex-from-question-to-bridge.md) — Вселенная SHOA: герои.
+- 📖 [Эли — от проверки к жизни](posts/eli-from-proof-to-life.md) — Вселенная SHOA: герои.
 
 ---
 
