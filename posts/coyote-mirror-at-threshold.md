@@ -1,5 +1,8 @@
 # КОЙОТ — ЗЕРКАЛО У ПОРОГА
 
+![Койот — зеркало у порога](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis/blob/main/emblems/coyote-mirror-at-threshold.jpeg?raw=true)
+
+Он появляется в пустыне...
 Он появляется в пустыне. У костра. Старик.
 
 > «Чай будете? Правда, он горький.»
