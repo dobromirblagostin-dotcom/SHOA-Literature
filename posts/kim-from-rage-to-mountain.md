@@ -1,6 +1,6 @@
 # КИМ — ОТ ЯРОСТИ К ГОРЕ
 
-![Ким — от ярости к горе](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis/blob/main/emblems/kim-from-rage-to-mountain.jpeg?raw=true)
+![Ким — от ярости к горе](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis/blob/main/emblems/kim-from-rage-to-mountain.jpg?raw=true)
 
 Он не искал покоя...
 
