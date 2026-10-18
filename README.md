@@ -50,6 +50,7 @@
 - 📖 [Эли — от проверки к жизни](posts/eli-from-proof-to-life.md) — Вселенная SHOA: герои.
 - 📖 [Ким — от ярости к горе](posts/kim-from-rage-to-mountain.md) — Вселенная SHOA: герои.
 - 📖 [Койот — зеркало у порога](posts/coyote-mirror-at-threshold.md) — Вселенная SHOA: герои.
+- 📖 [Финал: О пути. О приглашении](posts/finale-invitation.md) — Вселенная SHOA: герои.
 
 ---
 
