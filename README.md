@@ -51,6 +51,7 @@
 - 📖 [Ким — от ярости к горе](posts/kim-from-rage-to-mountain.md) — Вселенная SHOA: герои.
 - 📖 [Койот — зеркало у порога](posts/coyote-mirror-at-threshold.md) — Вселенная SHOA: герои.
 - 📖 [Финал: О пути. О приглашении](posts/finale-invitation.md) — Вселенная SHOA: герои.
+- 📖 [Вавилонская башня: первый космодром?](posts/babylon-tower-first-cosmodrome.md) — Мифы как карта.
 
 ---
 
