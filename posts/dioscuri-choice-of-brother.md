@@ -4,7 +4,7 @@
 
 # ДИОСКУРЫ — ВЫБОР БРАТА
 
-![Диоскуры — выбор брата](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis/blob/main/emblems/dioscuri-choice-of-brother.jpeg?raw=true)
+![Диоскуры — выбор брата](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis/blob/main/emblems/dioscuri-choice-of-brother.jpg?raw=true)
 
 Знаешь, есть мифы, которые кажутся простыми...
 
