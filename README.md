@@ -52,6 +52,7 @@
 - 📖 [Койот — зеркало у порога](posts/coyote-mirror-at-threshold.md) — Вселенная SHOA: герои.
 - 📖 [Финал: О пути. О приглашении](posts/finale-invitation.md) — Вселенная SHOA: герои.
 - 📖 [Вавилонская башня: первый космодром?](posts/babylon-tower-first-cosmodrome.md) — Мифы как карта.
+- 📖 [Диоскуры — выбор брата](posts/dioscuri-choice-of-brother.md) — Сказания о Титанах.
 
 ---
 
