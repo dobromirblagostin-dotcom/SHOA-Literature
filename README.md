@@ -54,6 +54,7 @@
 - 📖 [Вавилонская башня: первый космодром?](posts/babylon-tower-first-cosmodrome.md) — Мифы как карта.
 - 📖 [Диоскуры — выбор брата](posts/dioscuri-choice-of-brother.md) — Сказания о Титанах.
 - 📖 [Ковчег SHOA: Семя](posts/shoa-seed.md) — Семя.
+- 📖 [Атлант и Иисус](posts/atlas-and-jesus.md) — Сказания о Титанах.
 
 ---
 
