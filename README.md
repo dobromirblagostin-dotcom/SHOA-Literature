@@ -56,6 +56,7 @@
 - 📖 [Ковчег SHOA: Семя](posts/shoa-seed.md) — Семя.
 - 📖 [Атлант и Иисус](posts/atlas-and-jesus.md) — Сказания о Титанах.
 - 📖 [Япет. Тот, кто не примирился](posts/iapetus-the-unreconciled.md) — Сказания о Титанах.
+- 📖 [Майя. Первая](posts/maia-the-first.md) — Сказания о Титанах.
 
 ---
 
